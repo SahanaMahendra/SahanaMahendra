@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/uc?export=view&id=1QWnPmazDXkd-pqqm4oDBB39B0ybxvGjo)
+![Header](https://imgur.com/a/ieZ34Cp)
 
 # Hi 👋, I'm Sahana Mahendra
 
