@@ -1,4 +1,4 @@
-![Header](https://imgur.com/a/ieZ34Cp)
+![Header](https://drive.google.com/uc?export=view&id=1QWnPmazDXkd-pqqm4oDBB39B0ybxvGjo)
 
 # Hi 👋, I'm Sahana Mahendra
 
@@ -6,8 +6,7 @@ Graduate Illinois Tech student...
 
 - 🚀 I’m currently learning **Python, ML, AI**
 - 💬 Ask me anything in **Software testing/ Automation...**
-- 📫 How to reach me **(mailto:sahanamahendra@1996.com)**
-- ⚡ Get in touch with me..
+- 📫 Mail me @**sahanamahendra1996@gmail.com**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahana-mahendra/)
