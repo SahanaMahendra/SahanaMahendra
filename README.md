@@ -1,4 +1,5 @@
-![Header](url-to-your-header-image](https://drive.google.com/file/d/1QWnPmazDXkd-pqqm4oDBB39B0ybxvGjo/view?usp=sharing)
+![Header](https://drive.google.com/uc?export=view&id=1QWnPmazDXkd-pqqm4oDBB39B0ybxvGjo)
+
 # Hi 👋, I'm Sahana Mahendra
 
 Graduate Illinois Tech student...
