@@ -19,15 +19,8 @@
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium WebDriver" width="40" height="40"></a>
+<a href="https://drive.google.com/uc?export=view&id=19iypET4GBsnfAwmEsRFSYBa9tROo_9aQ" target="_blank"><img src="https://drive.google.com/uc?export=view&id=19iypET4GBsnfAwmEsRFSYBa9tROo_9aQ" alt="Selenium WebDriver" width="40" height="40"></a>
 
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="RestAssured API" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="TestNG" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/automation.png" alt="BDD" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber (Gherkin)" width="40" height="40"></a>
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/apache-jmeter.png" alt="JMeter" width="40" height="40"></a>
-
-<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/agile.png" alt="Agile" width="40" height="40"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"></a>
