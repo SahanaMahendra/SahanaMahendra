@@ -1,35 +1,37 @@
-![Header](https://drive.google.com/uc?export=view&id=1QWnPmazDXkd-pqqm4oDBB39B0ybxvGjo)
+![Header](https://drive.google.com/uc?id=1225mUXj2vrf4l85Ci4OsEJuJ1xNTkKwB)
 
-# Hi 👋, I'm Sahana Mahendra
+<div align="center">
+  <h1>Hi 👋, I'm Sahana Mahendra</h1>
+</div>
 
 Graduate Illinois Tech student...
 
 - 🚀 I’m currently learning **Python, ML, AI**
 - 💬 Ask me anything in **Software testing/ Automation...**
-- 📫 Mail me @**sahanamahendra1996@gmail.com**
+- 📫 Mail me **sahanamahendra1996@gmail.com**
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahana-mahendra/)
+## Get in touch with me:
+<a href="https://www.linkedin.com/in/sahana-mahendra/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a>
 
 
 ## Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"></a>
+
 
 ## Test Automation Frameworks/Tools:
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![RestAssured API](https://img.shields.io/badge/RestAssured%20API-4EA94B?style=for-the-badge&logo=rest-assured&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
-![BDD](https://img.shields.io/badge/BDD-04C38E?style=for-the-badge&logo=behave&logoColor=white)
-![Cucumber (Gherkin)](https://img.shields.io/badge/Cucumber%20(Gherkin)-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-ff69b4?style=for-the-badge&logo=agile&logoColor=white)
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium WebDriver" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="RestAssured API" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/test-tube.png" alt="TestNG" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/automation.png" alt="BDD" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber (Gherkin)" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/apache-jmeter.png" alt="JMeter" width="40" height="40"></a>
+<a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/agile.png" alt="Agile" width="40" height="40"></a>
+
 
 ## SCM Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Databases:
