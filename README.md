@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/sahana-mahendra/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"></a>
 <a href="https://www.instagram.com/sahana1996.m/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"></a>
 
+### View and download my resume
+<a href="https://drive.google.com/file/d/14RiMmOrybDJZYyq6OUO582vYqKfNriXK/view?usp=drive_link" target="_blank">Download My Resume</a>
+
 ### Languages and Tools:
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"></a>
