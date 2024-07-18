@@ -4,7 +4,7 @@
   <h1>Hi 👋, I'm Sahana Mahendra</h1>
 </div>
 
-### Graduate Illinois Tech student...
+### Graduate Illinois Tech Student...
 
 - 🚀 I’m currently learning **Python, ML, AI**
 - 💬 Ask me anything in **Software testing/ Automation...**
