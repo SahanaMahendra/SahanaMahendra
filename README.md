@@ -1,13 +1,13 @@
 ![Header](https://drive.google.com/uc?id=1225mUXj2vrf4l85Ci4OsEJuJ1xNTkKwB)
 
 <div align="center">
-  <h1>Hi 👋, I'm Sahana Mahendra</h1>
+  <h1>Hi 👋, I'm Sahana</h1>
 </div>
 
-### Graduate Illinois Tech Student...
-
-- 🚀  In my free time, I solve problems on Leetcode and read tech articles.
+### About Me
+- 👨‍💻 Graduate Illinois Tech Student...
 - 💬 Ask me anything in **Software testing/ Automation...**
+- 🚀  In my free time, I solve problems on Leetcode and read tech articles.
 - 📫 Mail me **sahanamahendra1996@gmail.com**
 
 ### Get in touch with me
