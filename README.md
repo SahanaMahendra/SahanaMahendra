@@ -6,7 +6,7 @@
 
 ### Graduate Illinois Tech Student...
 
-- 🚀 I’m currently learning **Python, ML, AI**
+- 🚀  In my free time, I solve problems on Leetcode and read tech articles.
 - 💬 Ask me anything in **Software testing/ Automation...**
 - 📫 Mail me **sahanamahendra1996@gmail.com**
 
