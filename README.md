@@ -1,4 +1,3 @@
-![Header](https://drive.google.com/uc?id=1225mUXj2vrf4l85Ci4OsEJuJ1xNTkKwB)
 
 <div align="center">
   <h1>It's Sahana</h1>
