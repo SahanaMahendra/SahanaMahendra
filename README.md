@@ -4,7 +4,7 @@
 </div>
 
 ### About Me
-- 👨‍💻 Graduate Illinois Tech Student...
+- 👨‍💻 Graduate Illinois Tech Student
 - 💬 Ask me anything in **Software testing/ Automation...**
 - 🚀  In my free time, I solve problems on Leetcode and read tech articles.
 - 📫 Mail me **sahanamahendra1996@gmail.com**
