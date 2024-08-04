@@ -21,9 +21,6 @@
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"></a>
 <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"></a>
-<a href="https://www.selenium.dev/documentation/webdriver/" target="_blank">
-    <img src="https://drive.google.com/uc?export=view&id=19iypET4GBsnfAwmEsRFSYBa9tROo_9aQ" alt="Selenium WebDriver" width="40" height="40">
-</a>
 
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="40" height="40"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"></a>
