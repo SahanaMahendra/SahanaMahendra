@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/sahana1996.m/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"></a>
 
 ### View and download my resume
-<a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">Resume</a>
+<a href="https://drive.google.com/drive/u/0/folders/1mu2tkagkAJTQ3kfhEnMEBHvJEg0SPqzk">Resume</a>
 
 ### Languages and Tools
 ### Languages and Tools
